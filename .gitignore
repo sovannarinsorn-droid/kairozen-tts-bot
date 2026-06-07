@@ -1,0 +1,20 @@
+# ⚠️ ហាមដាច់ push .env ទៅ GitHub!
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Temp audio files
+*.mp3
+
+# OS files
+.DS_Store
+Thumbs.db
